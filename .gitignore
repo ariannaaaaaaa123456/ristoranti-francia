@@ -1,0 +1,31 @@
+# R session files
+.Rhistory
+.RData
+.Rdata
+
+# User-specific R project files
+.Rproj.user
+.Rproj.user/
+
+# Dependency management
+renv/
+
+# R package build/check artifacts
+*.Rcheck/
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Heavy graphic outputs
+*.tiff
+*.tif
+*.bmp
+*.psd
+*.svgz
+*.rds
+plots/
+figures/
+
+# Requested misc file
+-
